@@ -1,11 +1,5 @@
 # ERC20 Faucet
 
-<kbd><img src="images/PrincessLeiaPeachExpelsARainbowBigBang-WeenusTokenFaucet.png" /></kbd>
-
----
-
-Search in your Ethereum blockchain explorer for **WEENUS** (18 decimals), **XEENUS** (18 decimals), **YEENUS** (8 decimals) or **ZEENUS** (0 decimals).
-
 Send a 0 value transaction from your account to the token contract addresses below on your preferred network, and these token contracts will mint 1,000 ERC20 test tokens for your account.
 
 You will need some ethers (ETH) to pay for the network transaction fees. See [Testnet Ether Faucets](#testnet-ether-faucets) below to obtain testnet ethers.
@@ -23,25 +17,28 @@ You will need some ethers (ETH) to pay for the network transaction fees. See [Te
 
 [xDai socol testnet](https://blockscout.com/poa/sokol)
 
-WEENUS: 0x3430474e9d0D6777fC98f2b1F7F96645afd0a37b
-
-XEENUS: 0x5CaF492C5E1b1201a61D7B6Ae8A193f6a484f47C
-
-YEENUS: 0xe23D4edE09f7dd32fE905bA05cABCC62710cb6c1
-
-ZEENUS: 0x9f2062568F73D53414781835106d7b8D827c0F2c
+- WEENUS: `0x3430474e9d0D6777fC98f2b1F7F96645afd0a37b`
+- XEENUS: `0x5CaF492C5E1b1201a61D7B6Ae8A193f6a484f47C`
+- YEENUS: `0xe23D4edE09f7dd32fE905bA05cABCC62710cb6c1`
+- ZEENUS: `0x9f2062568F73D53414781835106d7b8D827c0F2c`
 
 ---
 
 [Polygon Mumbai testnet](https://blockscout.com/poa/sokol)
 
-WEENUS: 0x711e1A4a500E6AAA0df2b934982506FC78e00833
+- WEENUS: `0x711e1A4a500E6AAA0df2b934982506FC78e00833`
+- XEENUS: `0x77379Ed253c4731f365FcCcee8E7bbe07261d103`
+- YEENUS: `0xF78A0De8b155bF0d7A5ee2C1106C731029163F4D`
+- ZEENUS: `0xeB891bb1CCd50C85daA818a8a0EB6D31147e7A2D`
 
-XEENUS: 0x77379Ed253c4731f365FcCcee8E7bbe07261d103
+---
 
-YEENUS: 0xF78A0De8b155bF0d7A5ee2C1106C731029163F4D
+[Godwoken testnet](https://v1.aggron.gwscan.com/)
 
-ZEENUS: 0xeB891bb1CCd50C85daA818a8a0EB6D31147e7A2D
+- WEENUS: `0xe69E71944CD14e8D67574688935C07aC5aE272Ca`
+- XEENUS: `0x3430474e9d0D6777fC98f2b1F7F96645afd0a37b`
+- YEENUS: `0x5CaF492C5E1b1201a61D7B6Ae8A193f6a484f47C`
+- ZEENUS: `0xe23D4edE09f7dd32fE905bA05cABCC62710cb6c1`
 
 ---
 

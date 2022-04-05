@@ -1,10 +1,10 @@
-.DS_Store
-.project
-.settings
+node_modules
 .env
-
+coverage
+coverage.json
+typechain
 *lock.json
 
-build*/
-node_modules
-private
+#Hardhat files
+cache
+artifacts
