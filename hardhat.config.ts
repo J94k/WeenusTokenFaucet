@@ -132,6 +132,11 @@ const config: HardhatUserConfig = {
       url: "https://godwoken-testnet-web3-v1-rpc.ckbapp.dev",
       accounts: [ACCOUNT_PRIVATE_KEY],
     },
+    ozonechain: {
+      chainId: 4000,
+      url: "https://node1.ozonechain.io",
+      accounts: [ACCOUNT_PRIVATE_KEY],
+    },
   },
   mocha: {
     timeout: 40_000,
