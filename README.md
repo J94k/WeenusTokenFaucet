@@ -41,6 +41,11 @@ You will need some ethers (ETH) to pay for the network transaction fees. See [Te
 - YEENUS: `0x5CaF492C5E1b1201a61D7B6Ae8A193f6a484f47C`
 - ZEENUS: `0xe23D4edE09f7dd32fE905bA05cABCC62710cb6c1`
 
+### [Ozonechain](https://ozonescan.io/)
+
+- WEENUS: `0x2d3D67271C48D5E952113799828bcBC02cd70a82`
+- XEENUS: `0x428DEe84CF0986ceE082c0A7c6f310A58e4e0ec9`
+
 <br />
 
 ## Testnet Faucets
