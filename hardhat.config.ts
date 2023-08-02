@@ -137,6 +137,11 @@ const config: HardhatUserConfig = {
       url: "https://node1.ozonechain.io",
       accounts: [ACCOUNT_PRIVATE_KEY],
     },
+    base: {
+      chainId: 8453,
+      url: "https://mainnet.base.org",
+      accounts: [ACCOUNT_PRIVATE_KEY],
+    },
   },
   mocha: {
     timeout: 40_000,

@@ -2,7 +2,7 @@
   "name": "erc20-token-faucet",
   "scripts": {
     "compile": "npx hardhat compile",
-    "deploy": "npx hardhat run --network"
+    "deploy": "npx hardhat run ./scripts/deploy.ts --network"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.5",
