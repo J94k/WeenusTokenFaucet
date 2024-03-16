@@ -13,6 +13,10 @@ You will need some ethers (ETH) to pay for the network transaction fees. See [Te
 | [YEENUS](contracts/YeenusToken.sol) |        8 |            1,000 | [0x187E63F9](https://etherscan.io/address/0x187E63F9eBA692A0ac98d3edE6fEb870AF0079e1#code) | [0xF6fF95D5](https://ropsten.etherscan.io/address/0xF6fF95D53E08c9660dC7820fD5A775484f77183A#code) | [0xc6fDe3FD](https://kovan.etherscan.io/address/0xc6fDe3FD2Cc2b173aEC24cc3f267cb3Cd78a26B7#code) | [0xc6fDe3FD](https://rinkeby.etherscan.io/address/0xc6fDe3FD2Cc2b173aEC24cc3f267cb3Cd78a26B7#code) | [0xc6fDe3FD](https://goerli.etherscan.io/address/0xc6fDe3FD2Cc2b173aEC24cc3f267cb3Cd78a26B7#code) | [0x0257f5d2](https://blockscout.com/poa/xdai/address/0x0257f5d2f23E41aB39F6016BF3B0010955E5F596/contracts) |
 | [ZEENUS](contracts/ZeenusToken.sol) |        0 |            1,000 | [0x0693c3a7](https://etherscan.io/address/0x0693c3a780A0a757E803a4BD76bCf43d438f8806#code) | [0xC84f8B66](https://ropsten.etherscan.io/address/0xC84f8B669Ccb91C86AB2b38060362b9956f2De52#code) | [0x1f9061B9](https://kovan.etherscan.io/address/0x1f9061B953bBa0E36BF50F21876132DcF276fC6e#code) | [0x1f9061B9](https://rinkeby.etherscan.io/address/0x1f9061B953bBa0E36BF50F21876132DcF276fC6e#code) | [0x1f9061B9](https://goerli.etherscan.io/address/0x1f9061B953bBa0E36BF50F21876132DcF276fC6e#code) | [0x81F4Ce55](https://blockscout.com/poa/xdai/address/0x81F4Ce556E4b47748ad2Ab8878FeE5054CbAB7a2/contracts) |
 
+### [Ethereum Sepolia](https://sepolia.etherscan.io/)
+
+- WEENUS: `0xEF65BF9e225A4B606aa5C46f944De35f566e58e4`
+
 ### [xDai socol testnet](https://blockscout.com/poa/sokol)
 
 - WEENUS: `0x3430474e9d0D6777fC98f2b1F7F96645afd0a37b`

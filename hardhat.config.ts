@@ -47,9 +47,9 @@ const config: HardhatUserConfig = {
       url: "https://mainnet.infura.io/v3/3cb031735f9a46a69f2babab4fae3e0d",
       accounts: [ACCOUNT_PRIVATE_KEY],
     },
-    rinkeby: {
-      chainId: 4,
-      url: "https://rinkeby.infura.io/v3/3cb031735f9a46a69f2babab4fae3e0d",
+    sepolia: {
+      chainId: 11155111,
+      url: "https://rpc.sepolia.org",
       accounts: [ACCOUNT_PRIVATE_KEY],
     },
     bsc: {
