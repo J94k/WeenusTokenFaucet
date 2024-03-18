@@ -54,6 +54,10 @@ You will need some ethers (ETH) to pay for the network transaction fees. See [Te
 
 - WEENUS: `0x428DEe84CF0986ceE082c0A7c6f310A58e4e0ec9`
 
+### [Blast Sepolia](https://testnet.blastscan.io)
+
+- WEENUS: `0x2d3D67271C48D5E952113799828bcBC02cd70a82`
+
 <br />
 
 ## Testnet Faucets

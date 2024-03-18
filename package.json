@@ -1,5 +1,8 @@
 {
   "name": "erc20-token-faucet",
+  "engines": {
+    "node": ">=18.19.0"
+  },
   "scripts": {
     "compile": "npx hardhat compile",
     "deploy": "npx hardhat run ./scripts/deploy.ts --network"

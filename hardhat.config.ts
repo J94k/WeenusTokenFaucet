@@ -142,6 +142,16 @@ const config: HardhatUserConfig = {
       url: "https://mainnet.base.org",
       accounts: [ACCOUNT_PRIVATE_KEY],
     },
+    blast: {
+      chainId: 81457,
+      url: "https://rpc.blast.io",
+      accounts: [ACCOUNT_PRIVATE_KEY],
+    },
+    blastTestnet: {
+      chainId: 168587773,
+      url: "https://sepolia.blast.io",
+      accounts: [ACCOUNT_PRIVATE_KEY],
+    },
   },
   mocha: {
     timeout: 40_000,
