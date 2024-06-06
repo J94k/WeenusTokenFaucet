@@ -17,6 +17,8 @@ const {
   BSCSCAN_API_KEY,
   // @ts-ignore
   POLYGON_API_KEY,
+    // @ts-ignore
+  CORE_API_KEY,
 } = dotConfig.parsed;
 
 const optimizerConfig = {
@@ -152,6 +154,11 @@ const config: HardhatUserConfig = {
       url: "https://sepolia.blast.io",
       accounts: [ACCOUNT_PRIVATE_KEY],
     },
+    core: {
+      chainId: 1116,
+      url: 'https://rpc.coredao.org',
+      accounts: [ACCOUNT_PRIVATE_KEY],
+    },
   },
   mocha: {
     timeout: 40_000,
@@ -168,7 +175,18 @@ const config: HardhatUserConfig = {
       bscTestnet: BSCSCAN_API_KEY,
       polygon: POLYGON_API_KEY,
       polygonMumbai: POLYGON_API_KEY,
+      core: CORE_API_KEY,
     },
+    customChains: [
+      {
+        network: "core",
+        chainId: 1116,
+        urls: {
+          apiURL: "FILLME",
+          browserURL: "https://rpc.coredao.org"
+        }
+      }
+    ]
   },
 };
 

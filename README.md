@@ -58,6 +58,11 @@ You will need some ethers (ETH) to pay for the network transaction fees. See [Te
 
 - WEENUS: `0x2d3D67271C48D5E952113799828bcBC02cd70a82`
 
+### [CORE](https://scan.coredao.org/)
+
+- WEENUS: `0x2d3D67271C48D5E952113799828bcBC02cd70a82`
+
+
 <br />
 
 ## Testnet Faucets
